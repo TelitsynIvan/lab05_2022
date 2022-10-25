@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab05/MyDictionary/bin/Debug/net6.0/MyDictionary.deps.json
+/Users/marmelad/RiderProjects/lab05/MyDictionary/bin/Debug/net6.0/MyDictionary.dll
+/Users/marmelad/RiderProjects/lab05/MyDictionary/bin/Debug/net6.0/MyDictionary.pdb
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/MyDictionary.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/MyDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/MyDictionary.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/MyDictionary.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/MyDictionary.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/MyDictionary.dll
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/refint/MyDictionary.dll
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/MyDictionary.pdb
+/Users/marmelad/RiderProjects/lab05/MyDictionary/obj/Debug/net6.0/ref/MyDictionary.dll

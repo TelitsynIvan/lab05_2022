@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "number3/1.0.0": {
+        "dependencies": {
+          "MyDictionary": "1.0.0"
+        },
+        "runtime": {
+          "number3.dll": {}
+        }
+      },
+      "MyDictionary/1.0.0": {
+        "runtime": {
+          "MyDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "number3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

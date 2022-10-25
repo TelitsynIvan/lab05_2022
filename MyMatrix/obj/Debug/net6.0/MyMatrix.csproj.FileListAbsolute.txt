@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab05/MyMatrix/bin/Debug/net6.0/MyMatrix.deps.json
+/Users/marmelad/RiderProjects/lab05/MyMatrix/bin/Debug/net6.0/MyMatrix.dll
+/Users/marmelad/RiderProjects/lab05/MyMatrix/bin/Debug/net6.0/MyMatrix.pdb
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/MyMatrix.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/MyMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/MyMatrix.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/MyMatrix.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/MyMatrix.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/MyMatrix.dll
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/refint/MyMatrix.dll
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/MyMatrix.pdb
+/Users/marmelad/RiderProjects/lab05/MyMatrix/obj/Debug/net6.0/ref/MyMatrix.dll

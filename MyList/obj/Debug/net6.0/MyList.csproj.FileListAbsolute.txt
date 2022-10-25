@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab05/MyList/bin/Debug/net6.0/MyList.deps.json
+/Users/marmelad/RiderProjects/lab05/MyList/bin/Debug/net6.0/MyList.dll
+/Users/marmelad/RiderProjects/lab05/MyList/bin/Debug/net6.0/MyList.pdb
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/MyList.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/MyList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/MyList.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/MyList.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/MyList.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/MyList.dll
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/refint/MyList.dll
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/MyList.pdb
+/Users/marmelad/RiderProjects/lab05/MyList/obj/Debug/net6.0/ref/MyList.dll
